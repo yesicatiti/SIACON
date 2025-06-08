@@ -1,0 +1,59 @@
+pregunta,respuesta
+Cuándo vence el contrato de Juan,"No se encontró información para juan. Empleados disponibles: Juan Pérez, María Gómez, Carlos Ruiz, Ana Torres, Luis Fernández, Sofía Ramírez, Pedro López"
+¿Se envió el correo de bienvenida a ana?,No se encontró información exacta para ana. Coincidencias: Ana Torres
+¿Se envió el correo de bienvenida juan?,"Lo siento, no entiendo la pregunta. Puedes preguntarme por vencimientos de contratos, renovaciones, accesos o estado de correos de bienvenida. Ejemplos: ¿Cuándo vence el contrato de Juan Pérez? ¿Qué contratos vencen en julio? ¿Se envió el correo de bienvenida a María Gómez?"
+¿Cuándo vence el contrato de Juan?,No se encontró información exacta para juan. Coincidencias: Juan Pérez
+¿Se envió el correo de bienvenida a juan?,No se encontró información exacta para juan. Coincidencias: Juan Pérez
+¿Se envió el correo de bienvenida a juan perez?,El correo de bienvenida a juan perez fue enviado el 2024-07-01.
+¿Qué contratos vencen en DICIEMBRE?,"Contratos que vencen en diciembre:
+| Nombre | Cargo | Fecha Vencimiento |
+|---|---|---|
+| Luis Fernández | TI | 2025-12-02 |
+"
+¿Cuándo vence el contrato de JUAN?,No se encontró información exacta para juan. Coincidencias: Juan Pérez
+¿Cuándo vence el contrato de Juan Pérez?,El contrato de juan perez vence el 2025-07-15 y está activo.
+¿Se envió el correo de bienvenida a MARIA?,No se encontró información exacta para maria. Coincidencias: María Gómez
+¿Se envió el correo de bienvenida a : María Gómez?,"Lo siento, no entiendo la pregunta. Puedes preguntarme por vencimientos de contratos, renovaciones, accesos o estado de correos de bienvenida. Ejemplos: ¿Cuándo vence el contrato de Juan Pérez? ¿Qué contratos vencen en julio? ¿Se envió el correo de bienvenida a María Gómez?"
+¿Se envió el correo de bienvenida a :María Gómez?,"Lo siento, no entiendo la pregunta. Puedes preguntarme por vencimientos de contratos, renovaciones, accesos o estado de correos de bienvenida. Ejemplos: ¿Cuándo vence el contrato de Juan Pérez? ¿Qué contratos vencen en julio? ¿Se envió el correo de bienvenida a María Gómez?"
+¿Se envió el correo de bienvenida a María Gómez?,El correo de bienvenida a maria gomez fue enviado el 2024-08-01.
+SS,"Lo siento, no entiendo la pregunta. Puedes preguntarme por vencimientos de contratos, renovaciones, accesos o estado de correos de bienvenida."
+¿Cuándo vence el contrato de S?,"No se encontró información exacta para s. Coincidencias: Carlos Ruiz, Ana Torres, Luis Fernández, Sofía Ramírez"
+¿Qué contratos vencen en agosto y septiembre?,"Contratos que vencen en agosto:
+| Nombre | Cargo | Fecha Vencimiento |
+|---|---|---|
+| María Gómez | Desarrollador | 2025-08-10 |
+| Pedro López | Analista | 2025-08-15 |
+"
+¿Qué contratos vencen en agosto y septiembre?,"Contratos que vencen en agosto:
+| Nombre | Cargo | Fecha Vencimiento |
+|---|---|---|
+| María Gómez | Desarrollador | 2025-08-10 |
+| Pedro López | Analista | 2025-08-15 |
+"
+¿Cuál es el email de un empleado?,"Lo siento, no entiendo la pregunta. Puedes preguntarme por vencimientos de contratos, renovaciones, accesos o estado de correos de bienvenida."
+¿Qué número de celular tiene tal persona? ,"Lo siento, no entiendo la pregunta. Puedes preguntarme por vencimientos de contratos, renovaciones, accesos o estado de correos de bienvenida."
+¿Qué número de celular tiene tal persona? ,No se encontró información para tal persona.
+Qué contratos son del régimen laboral CAS?,"Lo siento, no entiendo la pregunta. Puedes preguntarme por vencimientos de contratos, renovaciones, accesos, estado de correos de bienvenida, número de celular, email, contratos por régimen laboral, tipo de contrato o usuario."
+¿Cuál es el email de un empleado?,No se encontró información para un empleado.
+¿Cuál es el email de MARIA?,No se encontró información para maria.
+¿Qué contratos vencen en 2025-07?,"Lo siento, no entiendo la pregunta. Ejemplos de preguntas válidas:
+- ¿Qué contratos vencen en 2025-07?
+- ¿Cuál es el email de Juan Pérez?
+- ¿Qué número de celular tiene 12345678?
+- ¿Qué contratos son del régimen laboral CAS?
+- ¿Qué contratos tiene el usuario jperez?
+Puedes preguntar por vencimientos, emails, celulares, régimen laboral, tipo de contrato o usuario."
+¿Qué contratos vencen en 2025-07?,"Lo siento, no entiendo la pregunta. Ejemplos de preguntas válidas:
+- ¿Qué contratos vencen en 2025-07?
+- ¿Cuál es el email de Juan Pérez?
+- ¿Qué número de celular tiene 12345678?
+- ¿Qué contratos son del régimen laboral CAS?
+- ¿Qué contratos tiene el usuario jperez?
+Puedes preguntar por vencimientos, emails, celulares, régimen laboral, tipo de contrato o usuario."
+¿Qué contratos son del régimen laboral CAS?,"Lo siento, no entiendo la pregunta. Ejemplos de preguntas válidas:
+- ¿Qué contratos vencen en 2025-07?
+- ¿Cuál es el email de Juan Pérez?
+- ¿Qué número de celular tiene 12345678?
+- ¿Qué contratos son del régimen laboral CAS?
+- ¿Qué contratos tiene el usuario jperez?
+Puedes preguntar por vencimientos, emails, celulares, régimen laboral, tipo de contrato o usuario."
